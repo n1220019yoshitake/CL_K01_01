@@ -8,7 +8,10 @@ void main(void){
 	int b;
 
 	/* 値を入力 */
+	printf("１つ目の値を入力してください：");
 	scanf("%d" , &a);
+
+	printf("２つ目の値を入力してください：");
 	scanf("%d" , &b);
 
 	/* 計算 */
