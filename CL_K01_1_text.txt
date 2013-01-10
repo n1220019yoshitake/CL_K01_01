@@ -2,12 +2,18 @@
 #include <stdio.h>
 void main(void){
 	
-	/* 整数型変数sumの宣言 */
+	/* 整数型変数の宣言 */
 	int sum;
+	int a;
+	int b;
+
+	/* 値を入力 */
+	scanf("%d" , &a);
+	scanf("%d" , &b);
 
 	/* 計算 */
-	sum = 15 + 37;
+	sum = a + b;
 
 	/* 表示 */
-	printf("15に37を足した値は%dです。	", sum);
+	printf("%dに%dを足した値は%dです。	", a , b , sum);
 }
