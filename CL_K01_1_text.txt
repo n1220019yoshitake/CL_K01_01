@@ -3,9 +3,7 @@
 void main(void){
 	
 	/* 整数型変数の宣言 */
-	int sum;
-	int a;
-	int b;
+	int sum , a , b;
 
 	/* 値を入力 */
 	printf("１つ目の値を入力してください：");
