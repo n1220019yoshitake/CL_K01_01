@@ -1,0 +1,13 @@
+﻿/* 課題名：課題01_1 */
+#include <stdio.h>
+void main(void){
+	
+	/* 整数型変数sumの宣言 */
+	int sum;
+
+	/* 計算 */
+	sum = 15 + 37;
+
+	/* 表示 */
+	printf("15に37を足した値は%dです。\n", sum);
+}
