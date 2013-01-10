@@ -1,4 +1,4 @@
-﻿/* 課題名：課題01_1 */
+﻿/* 課題名：履歴管理 */
 #include <stdio.h>
 void main(void){
 	
